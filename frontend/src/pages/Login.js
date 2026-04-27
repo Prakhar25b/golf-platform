@@ -49,7 +49,7 @@ export default function Login() {
           </p>
           <div style={{ marginTop: 20, padding: '12px 16px', background: 'rgba(34,197,94,0.05)', borderRadius: 8, fontSize: 13, color: 'var(--gray)' }}>
             <strong style={{ color: 'var(--gray-light)' }}>Demo credentials:</strong><br />
-            Admin: admin@golfgive.com / admin123<br />
+            Admin: e-mail id / password<br />
             User: user@golfgive.com / user123
           </div>
         </div>
